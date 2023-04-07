@@ -1,4 +1,4 @@
-package b_strategy_pattern;
+package b_strategy_factory_pattern;
 
 public class ContractPayment implements PaymentStrategy {
 
